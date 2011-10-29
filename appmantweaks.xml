@@ -1,0 +1,14 @@
+<apps>	    
+	<app>	    
+		<name>No Scripts Yet!</name>
+		<moddate>01/01/2000</moddate>
+		<credits>Someone!</credits>
+		<url>http://google.com</url>
+		<version>Pre Alpha!</version>
+		<description> </description>
+		<files>
+			<file filename="*.*" location="system/etc/" perms="0644" appurl="http://android.magnificentblog.com/files/" md5="" />
+		</files>
+	</app>
+</apps>
+

@@ -1,0 +1,14 @@
+<apps>	    
+	<app>	    
+		<name>Purple Full Theme for V3.5</name>
+		<moddate>23-10-2011</moddate>
+		<credits>iridaki</credits>
+		<url>http://google.com</url>
+		<version>TEAM v3.5 and up</version>
+		<description>Full purple theme for TEAM ROM V3.5</description>
+		<files>
+			<file filename="TEAM_Purple_For_v3.5.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/TEAM_Purple_For_v3.5.zip" md5="69e1d7cfc07718f0b23e6452e56f4cfa" />
+		</files>
+	</app>
+</apps>
+

@@ -1,0 +1,47 @@
+<apps>
+<app>	    
+		<name>TEAM V3.1</name>
+		<moddate>17-10-2011</moddate>
+		<credits>pvyParts, iridaki, AyDee</credits>
+		<url>http://www.multiupload.com/V017NU8RCP</url>
+		<version>v3.1</version>
+		<description>TEAM V3.1 - Bugfixes, New Home, New Talk, New Camera</description>
+		<files>
+			<file filename="TEAM-v3.1-FIX.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/TEAM-v3.1-FIX.zip" md5="5b264092c4d27e53c5dbb8dc413a09f2" />
+		</files>
+		</app>	
+	<app>	    
+		<name>TEAM V3 ThKernel (BOOTMANAGER)</name>
+		<moddate>12-10-2011</moddate>
+		<credits>pvyParts, iridaki, ThJap</credits>
+		<url>http://google.com</url>
+		<version>v3</version>
+		<description>TEAM V3 powered by ThKernel - Boot Manager version - Select in Boot Manager</description>
+		<files>
+			<file filename="BM_2.3Th_kernel_029e.zip" location="sdcard/kernels/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/BM_2.3Th_kernel_029e.zip" md5="8f35a802111e013ee42973678f884500" />
+		</files>
+		</app>	
+	<app>	    
+		<name>TEAM V3 ThKernel (STOCK)</name>
+		<moddate>12-10-2011</moddate>
+		<credits>pvyParts, iridaki, ThJap</credits>
+		<url>http://google.com</url>
+		<version>v3</version>
+		<description>TEAM V3 powered by ThKernel - stock kernel version - Flash in xRecovery</description>
+		<files>
+			<file filename="ST_Th_kernel_029e6.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/ST_Th_kernel_029e6.zip" md5="a03acaa1cc94d6ece291046837e99073" />
+		</files>
+	</app>	  	
+	<app>	    
+		<name>FBiX v2 - BETA</name>
+		<moddate>06-10-2011</moddate>
+		<credits>Iridaki</credits>
+		<url>http://google.com</url>
+		<version>v2 BETA2</version>
+		<description>TEAM_FBiX2_beta2.zip Beta Full FBiX v2 compatible with TEAM. Flash from xRecovery</description>
+		<files>
+			<file filename="TEAM_FBiX2_beta2.zip" location="sdcard/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/TEAM_FBiX2_beta2.zip" md5="10fda34a9a7ee707d16561c2bda321d1" />
+		</files>
+	</app>
+</apps>
+

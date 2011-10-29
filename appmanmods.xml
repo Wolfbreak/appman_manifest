@@ -1,0 +1,114 @@
+<apps>	
+<app>	    
+		<name>XLoud Remover</name>
+		<moddate>23-10-2011</moddate>
+		<credits>T.E.A.M</credits>
+		<url>http://google.com</url>
+		<version>Any Version</version>
+		<description>TEAM-xloud-REMOVER.zip - Remove Unsuported XLoud addon - flash via xRecovery</description>
+		<files>
+			<file filename="TEAM-xloud-REMOVER.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/TEAM-xloud-REMOVER.zip" md5="2c3992d12fc218173c308f37c7b533b7" />
+		</files>
+	</app>
+	
+	<app>	    
+		<name>Green Theme Status Bar</name>
+		<moddate>07-10-2011</moddate>
+		<credits>TEAM</credits>
+		<url>http://google.com</url>
+		<version>TEAM v2.0</version>
+		<description>V2.0 Status Bar and notifications with Green Icons and Toggles </description>
+		<files>
+			<file filename="SystemUI.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/greenSystemUI.apk" md5="078df3ec53926c9e0665f7f406914801" />
+		</files>
+	</app>
+	<app>	    
+		<name>Orange Theme Status Bar</name>
+		<moddate>07-10-2011</moddate>
+		<credits>TEAM</credits>
+		<url>http://google.com</url>
+		<version>TEAM v2.0</version>
+		<description>V2.0 Status Bar and notifications with Orange Icons and Toggles</description>
+		<files>
+			<file filename="SystemUI.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/orangeSystemUI.apk" md5="0ca117f51907557d99d6322e93e8e824" />
+		</files>
+	</app>
+	<app>	    
+		<name>White Theme Status Bar</name>
+		<moddate>15-10-2011</moddate>
+		<credits>AyDee</credits>
+		<url>http://google.com</url>
+		<version>TEAM v2.0</version>
+		<description>V2.0 Status Bar and notifications with White Icons and Toggles</description>
+		<files>
+			<file filename="SystemUI.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/whiteSystemUI.apk" md5="fca7eef7c84d0e6728a31a5f223e8d7f" />
+		</files>
+	</app>
+	<app>	    
+		<name>Red Theme Status Bar</name>
+		<moddate>07-10-2011</moddate>
+		<credits>TEAM</credits>
+		<url>http://google.com</url>
+		<version>TEAM v2.0</version>
+		<description>V2.0 Status Bar and notifications with Red Icons and Toggles</description>
+		<files>
+			<file filename="SystemUI.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/redSystemUI.apk" md5="a54d2ce868fc4fb4de986e8a899925ad" />
+		</files>
+	</app>
+	<app>	    
+		<name>Fuscia Theme Status Bar</name>
+		<moddate>07-10-2011</moddate>
+		<credits>TEAM</credits>
+		<url>http://google.com</url>
+		<version>TEAM v2.0</version>
+		<description>V2.0 Status Bar and notifications with Fuscia Icons and Toggles</description>
+		<files>
+			<file filename="SystemUI.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/fusciaSystemUI.apk" md5="c2ee8183d2766287bf9eb4582b10cd51" />
+		</files>
+	</app>	
+	<app>	    
+		<name>Sony Home</name>
+		<moddate>21-09-2011</moddate>
+		<credits>TEAM</credits>
+		<url>http://google.com</url>
+		<version>v1</version>
+		<description>Default Sony Home Launcher</description>
+		<files>
+			<file filename="Home.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/Home.apk" md5="6a3174265f9a51da2490cdd9bb213ee6" />
+		</files>
+	</app>		
+	<app>	    
+		<name>Transparent Sony Home</name>
+		<moddate>21-09-2011</moddate>
+		<credits>TEAM</credits>
+		<url>http://google.com</url>
+		<version>v1</version>
+		<description>Sony Home Launcher with no dock bar background</description>
+		<files>
+			<file filename="Home.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/transHome.apk" md5="" />
+		</files>
+	</app>	
+	<app>	    
+		<name>Desaturated Sony Home</name>
+		<moddate>21-09-2011</moddate>
+		<credits>TEAM</credits>
+		<url>http://google.com</url>
+		<version>v1</version>
+		<description>Sony Home Launcher with a desaturated dock bar background</description>
+		<files>
+			<file filename="Home.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/desatHome.apk" md5="429acfd497eb14faa169646e4d42deee" />
+		</files>
+	</app>	
+	<app>	    
+		<name>Semi Trans Sony Home</name>
+		<moddate>21-09-2011</moddate>
+		<credits>TEAM</credits>
+		<url>http://google.com</url>
+		<version>v1</version>
+		<description>Sony Home Launcher with a semi transparent dock bar background</description>
+		<files>
+			<file filename="Home.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/semiHome.apk" md5="9bb6a407d7c316d0793c9656d4e70421" />
+		</files>
+	</app>	
+</apps>
+

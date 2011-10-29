@@ -1,0 +1,183 @@
+<apps>	    
+	<app>	    
+		<name>Stock Timescape</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>x10 2.3.3 Default Timescape - Pulled from 2.3.3 System Dump with Widget Default Plugins Phone, Messages, Facebook, Twitter</description>
+		<files>
+			<file filename="TimescapeSpline.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/TimescapeSpline.apk" md5="825f6589100b7fd35390a88a5f5a83b4" />
+			<file filename="TimescapeWidget.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/TimescapeWidget.apk" md5="9dc3e87f9a5decb29a17c09ed2ded938" />
+			<file filename="timescapelegacywrapper.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/timescapelegacywrapper.apk" md5="5bc794673746548b3c1de0fce8f88ecf" />
+			<file filename="EventStream.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/EventStream.apk" md5="9bc0db868a1ff476c309b8e960534480" />
+			<file filename="EventStreamPluginCallLog.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/EventStreamPluginCallLog.apk" md5="8bfe307754bd9f391f0a0edda44813b9" />
+			<file filename="EventStreamPluginFacebook.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/EventStreamPluginFacebook.apk" md5="f96dd21ca471920f1e0443db2a757daa" />
+			<file filename="EventStreamPluginTelephony.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/EventStreamPluginTelephony.apk" md5="588ecb813d0bd36f6eb3bb25575a20bc" />
+			<file filename="EventStreamPluginTwitter.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/EventStreamPluginTwitter.apk" md5="d121279e480724244e5782e9c448d0c5" />
+		</files>
+	</app>
+	<app>	    
+		<name>Sony Facebook Inside Xperia</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>Stock 2.3.3 Facebook inside Xperia</description>
+		<files>
+		  <file filename="SEMCFacebookService.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/SEMCFacebookService.apk" md5="41a9156a14e2b59e584adddc3b0f0099" />
+		  <file filename="FBCalendarSync.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/FBCalendarSync.apk" md5="7854881acb146dcf00cf02cb7cbbb64a" />
+		  <file filename="FBNotificationPublisher.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/FBNotificationPublisher.apk" md5="c3de0165f3588fcd81a9425646cda0d1" />
+		  <file filename="FBMusicLike.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/FBMusicLike.apk" md5="d4b8a44dbe379a14f84c61bc177fcf30" />		  
+		  <file filename="FBMediaDiscovery.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/FBMediaDiscovery.apk" md5="c99194ed01bdfc3caa3119a88bece431" />
+		  <file filename="FBSetupwizard.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/FBSetupwizard.apk" md5="d1d33ed44514770b13d4eda6a8b0c091" />
+		</files>
+    </app>
+	<app>	    
+		<name>OfficeSuite</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>Stock 2.3.3 Document Viewer</description>
+		<files>
+			<file filename="officesuite.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/officesuite.apk" md5="e241dc611ea958aca73304c664737f78" />
+		</files>
+	</app>
+	<app>	    
+		<name>TrackID</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>Stock 2.3.3 Track ID</description>
+		<files>
+			<file filename="trackid.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/trackid.apk" md5="2349c5a11680eaba53c559582021fd52" />
+		</files>
+	</app>
+	<app>	    
+		<name>Live WallPapers</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>Stock 2.3.3 Live Wallpapers</description>
+		<files>
+			<file filename="LiveWallpapers.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/LiveWallpapers.apk" md5="4bcb6365c73c319409676fe9caaef334" />
+			<file filename="MagicSmokeWallpapers.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/MagicSmokeWallpapers.apk" md5="733284f20035966db1b30f676d72248e" />
+		</files>
+	</app>
+	<app>	    
+		<name>Sony Weather Widget</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>Stock 2.3.3 Weather Widget</description>
+		<files>
+			<file filename="GenieWidget.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/GenieWidget.apk" md5="26f5c9a1ac06822b3ce52d635c652d7d" />
+		</files>
+	</app>
+	<app>	    
+		<name>Sony Photo Widget</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>Stock 2.3.3 Photo Widget</description>
+		<files>
+			<file filename="PhotoWidget.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/PhotoWidget.apk" md5="9fc853391f0fde71c44349a579281e1a" />
+		</files>
+	</app>
+	<app>	    
+		<name>Sony Postcard</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>Stock 2.3.3 Postcard App</description>
+		<files>
+			<file filename="touchnote.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/touchnote.apk" md5="83e54e7d4138dd96a443db720b04fc77" />	
+		</files>
+	</app>
+		<app>	    
+		<name>Sound Picker</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>Stock 2.3.3 Sound Picker</description>
+		<files>
+			<file filename="SoundPicker.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/SoundPicker.apk" md5="0f43dce58d01fdd4717032d35170cdcd" />
+		</files>
+	</app>
+	<app>	    
+		<name>Sony Playnow Store</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>Stock 2.3.3 Playnow Store</description>
+		<files>	
+			  <file filename="playnowclientarvato.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/playnowclientarvato.apk" md5="0b4856bf359aa3d5e6adb9b54df17904" />
+		</files>
+	</app>
+	<app>	    
+		<name>Wisepilot</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>Stock 2.3.3 Wisepilot Appe</description>
+		<files>	
+			<file filename="wisepilot.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/wisepilot.apk" md5="e1e0a35910fa09944f76270da08dcf88" />
+		</files>
+	</app>
+	<app>	    
+		<name>Sony Chinese Keyboard</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>Stock 2.3.3 Chinese Keyboard</description>
+		<files>
+			<file filename="chinesetextinput.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/chinesetextinput.apk" md5="570cf0d0ca63de51c040ad12c8bbc398" />	
+		</files>
+	</app>
+	<app>	    
+		<name>Sony Japanese Keyboard</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>Stock 2.3.3 Japanese Keyboard and Themes</description>
+		<files>
+		  <file filename="JapaneseIME.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/JapaneseIME.apk" md5="b180fe866c2eb4bbd202d4d342a96ffb" />
+		  <file filename="POBoxSknPink.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/POBoxSknPink.apk" md5="dd93a8793d58bb64d86c80c93f0fb507" />
+		  <file filename="POBoxSknWood.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/POBoxSknWood.apk" md5="2d206b0b5c97271037570c89c1bb44a8" />
+		</files>
+	</app>
+	
+	<app>	    
+		<name>Sony Bloatware</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>Stock 2.3.3 Bloatware add this back in if you are having Issues!</description>
+		<files>
+		  <file filename="usersupport.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/usersupport.apk" md5="729d590f1e435b4afc75ecf92432d7fc" />
+		  <file filename="qcsemcservice.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/qcsemcservice.apk" md5="c1971da404bb6426e903936104912920" />
+		  <file filename="ReadyToRun.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/ReadyToRun.apk" md5="9f7c4ba92207dbf56c4220a5632f2518" />
+		  <file filename="IddAgent.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/IddAgent.apk" md5="48e3eaa66b9b96e86fcb4a8743ab4706" />
+		  <file filename="CustomizationSimPayType.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/CustomizationSimPayType.apk" md5="77353682425650aec5401907ad1c4d17" />
+		  <file filename="LearningClient.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/LearningClient.apk" md5="84e63b18add1156f9dfa97279c13d6ac" />	
+		  <file filename="OMAClientProvisioning.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/OMAClientProvisioning.apk" md5="e32395860c9fdcaa6bbfc149d18e1560" />
+		  <file filename="VoipCallLogProvider.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/VoipCallLogProvider.apk" md5="cce7e8a15228075fe812eaf4d8d5615d" />	
+		  <file filename="device-monitor.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/device-monitor.apk" md5="faa9f5b6e49dc07e2404137a2b289802" />
+		  <file filename="PcCompanion.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/PcCompanion.apk" md5="8df35990029937d1cef4efd06dc69beb" />
+		  <file filename="SemcCrashMonitor.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/SemcCrashMonitor.apk" md5="9159507c36a752c3e500c5b4887f81e9" />
+		</files>
+	</app>
+</apps>
+
