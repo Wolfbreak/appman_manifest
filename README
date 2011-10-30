@@ -90,9 +90,11 @@ All Item Format
 			
 			<files>
 				<file filename="app1.apk" location="system/app/" perms="0644" 
-					appurl="http://some.web.page/files/app1.apk" md5="12345678910111213141516171819202" />
+					appurl="http://some.web.page/files/app1.apk" 
+					md5="12345678910111213141516171819202" />
 				<file filename="app2.apk" location="system/app/" perms="0644" 
-					appurl="http://some.web.page/files/app2.apk" md5="12345678910111213141516171819202" />
+					appurl="http://some.web.page/files/app2.apk" 
+					md5="12345678910111213141516171819202" />
 
 					**List of files
 					**Mulptiple files possible
