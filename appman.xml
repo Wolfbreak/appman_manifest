@@ -1,0 +1,14 @@
+<roms>
+	<rom>
+		<rom_name>T.E.A.M.</rom_name>
+		<phone>x10</phone>
+		<dev>pvyParts and iridaki</dev>
+		<github_name>pvyParts</github_name>
+		<apps>true</apps>
+		<tweaks>ture</tweaks>
+		<mods>true</mods>
+		<updates>true</updates>
+		<themes>true</themes>
+		<kernels>true</kernels>
+	</rom>
+</roms>
