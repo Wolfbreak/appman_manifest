@@ -89,22 +89,30 @@ All Item Format
 				**yeah that dont need explination
 			
 			<files>
-				<file filename="app1.apk" location="system/app/" perms="0644" appurl="http://some.web.page/files/app1.apk" md5="12345678910111213141516171819202" />
-				<file filename="app2.apk" location="system/app/" perms="0644" appurl="http://some.web.page/files/app2.apk" md5="12345678910111213141516171819202" />
+				<file filename="app1.apk" location="system/app/" perms="0644" 
+					appurl="http://some.web.page/files/app1.apk" md5="12345678910111213141516171819202" />
+				<file filename="app2.apk" location="system/app/" perms="0644" 
+					appurl="http://some.web.page/files/app2.apk" md5="12345678910111213141516171819202" />
 
 					**List of files
 					**Mulptiple files possible
 					**each file has these params
 						
-						**filename= the name of the file eg "AppMan.apk" Case Sensitive must incluude extension if it has one.
+						**filename= the name of the file eg "AppMan.apk" 
+						Case Sensitive must incluude extension if it has one.
 						
-						**location= the install location of the file eg "system/app/" thats self explanitory
+						**location= the install location of the file 
+						eg "system/app/" thats self explanitory
 						
-						**perms= the perms that the file needs eg "0644" (most system apps ect)
+						**perms= the perms that the file needs eg "0644" 
+						(most system apps ect)
 						
-						**appurl= the location of the file for it to be downloaded from. must be a direct link file service. eg "http://android.magnificentblog.com/files/AppMan.apk"
+						**appurl= the location of the file for it to be 
+						downloaded from. must be a direct link file service. 
+						eg "http://android.magnificentblog.com/files/AppMan.apk"
 						
-						**md5= the md5 hash of the file for download checks - if no md5 suplied the app wont install
+						**md5= the md5 hash of the file for download checks 
+						if no md5 suplied the app wont install
 					
 			</files>
 		</app>
