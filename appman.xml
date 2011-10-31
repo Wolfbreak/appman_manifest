@@ -11,4 +11,16 @@
 		<themes>true</themes>
 		<kernels>true</kernels>
 	</rom>
+	<rom>
+		<rom_name>ThGo2</rom_name>
+		<phone>x10</phone>
+		<dev>thJap</dev>
+		<github_name>hayashikejinan</github_name>
+		<apps>true</apps>
+		<tweaks>false</tweaks>
+		<mods>false</mods>
+		<updates>false</updates>
+		<themes>false</themes>
+		<kernels>false</kernels>
+	</rom>
 </roms>
