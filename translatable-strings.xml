@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppMan</string>
+    <string name="main_title">AppMan - Loading</string>
+    <string name="list_title">AppMan - Loading</string>
+    <string name="go_button">Go Fetch me my Files BITCHES!!!</string>
+    <string name="reboot">Reboot to Finish Installation</string>    
+    <string name="recovreboot">Reboot into xRecovery and Flash Update</string>
+    <string name="about_title">About AppMan</string>
+	<string name="about_title_text">About AppMan</string>
+	<string name="about_pvy_text">AppMan created by pvyParts! Please Send all Bugs or Problems or Ideas here!</string>
+	<string name="about_pvy_web">Click here to visit my Blog and join the party!</string>
+	<string name="about_pvy_web_text">pvyParts on the web</string>
+	<string name="about_version">Version and Build Date</string>
+	<string name="highlight">New Item Highlight</string>
+	<string name="new_desc">New Items will be colored this color</string>
+	<string name="ambilwarna_cancel">Cancel</string>
+	<string name="ambilwarna_ok">OK</string>
+	<string name="note_bar_title">There is new stuff in AppMan</string>
+	<string name="note_bar_text">AppMan Updates!</string>
+	<string name="note_bar_desc">Go take a look!</string>
+	<string name="not_sup">Your ROM is not currently supported Please contact the DEV to get Access!</string>
+	<string name="first_run">AppMan Is configuring for your phone. This will only happen Once! Please wait!</string>
+	<string name="no_root">Unable to get Root rights please ensure your ROM has root access and have given AppMan Root privlidges and retry!</string>
+	<string name="no_data">No Data Connection Available! Enable Data to use AppMan!</string>
+	<string name="failed">Failed to get List Please try again</string>
+	<string name="failed_dev">Failed to get List Please try again or contact</string>
+	<string name="options">Options</string>
+	<string name="about">About</string>
+	<string name="quit">Quit</string>
+</resources>
