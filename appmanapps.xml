@@ -176,14 +176,14 @@
 		</files>
 	</app>
 	<app>
-		<name>xLoud and Bravia Addon</name>
+		<name>xLoud and Bravia Addon V7</name>
 		<moddate>01-11-2011</moddate>
 		<credits>Google</credits>
 		<url>http://google.com</url>
 		<version>Stock x10 2.3.3</version>
 		<description>To get all xLoud and Bravia - for Xrec, Download saved to sdcard/wolfbreak</description>
 		<files>
-		  <file filename="xLoudBravia.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBravia.zip" md5="5e99cc38870eecef66400a1b5809f744" />
+		  <file filename="xLoudBraviaV7.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7.zip" md5="5e99cc38870eecef66400a1b5809f744" />
 		</files>
 	</app>
 	<app>	       
