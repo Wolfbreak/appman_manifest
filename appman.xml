@@ -1,11 +1,11 @@
 <roms>
 	<rom>
-		<rom_name>T.E.A.M.</rom_name>
+		<rom_name>Wolfs TW Gingerbread</rom_name>
 		<phone>x10</phone>
-		<dev>pvyParts and iridaki</dev>
-		<github_name>pvyParts</github_name>
+		<dev>Wolfbreak</dev>
+		<github_name>Wolfbreak</github_name>
 		<apps>true</apps>
-		<tweaks>ture</tweaks>
+		<tweaks>true</tweaks>
 		<mods>true</mods>
 		<updates>true</updates>
 		<themes>true</themes>
