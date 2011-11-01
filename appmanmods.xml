@@ -7,7 +7,7 @@
 		<version>Stock x10 2.3.3</version>
 		<description>To get all xLoud and Bravia - for Xrec, Download saved to sdcard/wolfbreak</description>
 		<files>
-		  <file filename="xLoud&Bravia.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoud&Bravia.zip" md5="8d20006c0834015442ebd133d96a521e" />
+		  <file filename="xLoudBravia.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBravia.zip" md5="8d20006c0834015442ebd133d96a521e" />
 		</files>
 	</app>
 	<app>	       
@@ -18,7 +18,7 @@
 		<version>Stock x10 2.3.3</version>
 		<description>To get all Widgets and some Apps like example TrackID - for Xrec, Download saved to sdcard/wolfbreak</description>
 		<files>
-		  <file filename="App&Widgetpack.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/App&Widgetpack.zip" md5="02d088b6ed66cdf3840794c8a5d305ff" />
+		  <file filename="AppWidgetpack.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/AppWidgetpack.zip" md5="02d088b6ed66cdf3840794c8a5d305ff" />
 		</files>
 	</app>
 	<app>	    
