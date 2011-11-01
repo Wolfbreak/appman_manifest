@@ -1,16 +1,15 @@
 <apps>	
-<app>	    
-		<name>XLoud Remover</name>
-		<moddate>23-10-2011</moddate>
-		<credits>T.E.A.M</credits>
+<app>	       
+		<name>xLoud&Bravia Addon</name>
+		<moddate>01-11-2011</moddate>
+		<credits>Google</credits>
 		<url>http://google.com</url>
-		<version>Any Version</version>
-		<description>TEAM-xloud-REMOVER.zip - Remove Unsuported XLoud addon - flash via xRecovery</description>
+		<version>Stock x10 2.3.3</version>
+		<description>To get all xLoud&Bravia - to flash with Xrec, Download saved to sdcard/wolfbreak</description>
 		<files>
-			<file filename="TEAM-xloud-REMOVER.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/TEAM-xloud-REMOVER.zip" md5="2c3992d12fc218173c308f37c7b533b7" />
+		  <file filename="xLoud&Bravia.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoud&Bravia.zip" md5="8d20006c0834015442ebd133d96a521e" />
 		</files>
 	</app>
-	
 	<app>	    
 		<name>Green Theme Status Bar</name>
 		<moddate>07-10-2011</moddate>
