@@ -1,23 +1,5 @@
 <apps>	    
 	<app>	    
-		<name>Stock Timescape</name>
-		<moddate>09-09-2011</moddate>
-		<credits>Sony Ericsson</credits>
-		<url>http://google.com</url>
-		<version>Stock x10 2.3.3</version>
-		<description>x10 2.3.3 Default Timescape - Pulled from 2.3.3 System Dump with Widget Default Plugins Phone, Messages, Facebook, Twitter</description>
-		<files>
-			<file filename="TimescapeSpline.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/TimescapeSpline.apk" md5="825f6589100b7fd35390a88a5f5a83b4" />
-			<file filename="TimescapeWidget.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/TimescapeWidget.apk" md5="9dc3e87f9a5decb29a17c09ed2ded938" />
-			<file filename="timescapelegacywrapper.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/timescapelegacywrapper.apk" md5="5bc794673746548b3c1de0fce8f88ecf" />
-			<file filename="EventStream.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/EventStream.apk" md5="9bc0db868a1ff476c309b8e960534480" />
-			<file filename="EventStreamPluginCallLog.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/EventStreamPluginCallLog.apk" md5="8bfe307754bd9f391f0a0edda44813b9" />
-			<file filename="EventStreamPluginFacebook.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/EventStreamPluginFacebook.apk" md5="f96dd21ca471920f1e0443db2a757daa" />
-			<file filename="EventStreamPluginTelephony.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/EventStreamPluginTelephony.apk" md5="588ecb813d0bd36f6eb3bb25575a20bc" />
-			<file filename="EventStreamPluginTwitter.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/EventStreamPluginTwitter.apk" md5="d121279e480724244e5782e9c448d0c5" />
-		</files>
-	</app>
-	<app>	    
 		<name>OfficeSuite</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
