@@ -18,22 +18,6 @@
 		</files>
 	</app>
 	<app>	    
-		<name>Sony Facebook Inside Xperia</name>
-		<moddate>09-09-2011</moddate>
-		<credits>Sony Ericsson</credits>
-		<url>http://google.com</url>
-		<version>Stock x10 2.3.3</version>
-		<description>Stock 2.3.3 Facebook inside Xperia</description>
-		<files>
-		  <file filename="SEMCFacebookService.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/SEMCFacebookService.apk" md5="41a9156a14e2b59e584adddc3b0f0099" />
-		  <file filename="FBCalendarSync.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/FBCalendarSync.apk" md5="7854881acb146dcf00cf02cb7cbbb64a" />
-		  <file filename="FBNotificationPublisher.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/FBNotificationPublisher.apk" md5="c3de0165f3588fcd81a9425646cda0d1" />
-		  <file filename="FBMusicLike.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/FBMusicLike.apk" md5="d4b8a44dbe379a14f84c61bc177fcf30" />		  
-		  <file filename="FBMediaDiscovery.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/FBMediaDiscovery.apk" md5="c99194ed01bdfc3caa3119a88bece431" />
-		  <file filename="FBSetupwizard.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/FBSetupwizard.apk" md5="d1d33ed44514770b13d4eda6a8b0c091" />
-		</files>
-    </app>
-	<app>	    
 		<name>OfficeSuite</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
@@ -201,30 +185,6 @@
 		<description>To get all stock Ringtone&Notifications - to flash with Xrec, Download saved to sdcard/wolfbreak</description>
 		<files>
 		  <file filename="Ringtone&Notification.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/Ringtone&Notification.zip" md5="0e6f76a224ac42867ee4e5d46e2c8214" />
-		</files>
-	</app>
-	
-		<app>	    
-		<name>xLoud&Bravia Addon</name>
-		<moddate>01-11-2011</moddate>
-		<credits>Google</credits>
-		<url>http://google.com</url>
-		<version>Stock x10 2.3.3</version>
-		<description>To get all xLoud&Bravia - to flash with Xrec, Download saved to sdcard/wolfbreak</description>
-		<files>
-		  <file filename="xLoud&Bravia.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoud&Bravia.zip" md5="8d20006c0834015442ebd133d96a521e" />
-		</files>
-	</app>
-	
-		<app>	    
-		<name>Wallpapers Addon</name>
-		<moddate>01-11-2011</moddate>
-		<credits>Google</credits>
-		<url>http://google.com</url>
-		<version>Stock x10 2.3.3</version>
-		<description>To get all stock Wallpapers - to flash with Xrec, Download saved to sdcard/wolfbreak</description>
-		<files>
-		  <file filename="Wallpapers.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/Wallpapers.zip" md5="4c430dd4bb5436b81cdc8d24fe947fee" />
 		</files>
 	</app>
 </apps>
