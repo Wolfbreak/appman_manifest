@@ -1,13 +1,13 @@
 <apps>	    
 	<app>	    
-		<name>Purple Full Theme for V3.5</name>
-		<moddate>23-10-2011</moddate>
-		<credits>iridaki</credits>
+		<name>Transparent Theme for V7</name>
+		<moddate>01-11-2011</moddate>
+		<credits>p0k3sm0t</credits>
 		<url>http://google.com</url>
-		<version>TEAM v3.5 and up</version>
-		<description>Full purple theme for TEAM ROM V3.5</description>
+		<version>v7 and up</version>
+		<description>Transparent Theme for V7</description>
 		<files>
-			<file filename="TEAM_Purple_For_v3.5.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/TEAM_Purple_For_v3.5.zip" md5="69e1d7cfc07718f0b23e6452e56f4cfa" />
+			<file filename="Transperant_theme_WB_V7beta_WPC.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/Transperant_theme_WB_V7beta_WPC.zip" md5="df36ca2ea59c22246080a7c0d020f08d" />
 		</files>
 	</app>
 </apps>
