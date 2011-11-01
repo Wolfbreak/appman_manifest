@@ -1,24 +1,13 @@
 <apps>	
-<app>	       
-		<name>xLoud and Bravia Addon</name>
+<app>   
+		<name>Ringtone and Notifications Addon</name>
 		<moddate>01-11-2011</moddate>
 		<credits>Google</credits>
 		<url>http://google.com</url>
 		<version>Stock x10 2.3.3</version>
-		<description>To get all xLoud and Bravia - for Xrec, Download saved to sdcard/wolfbreak</description>
+		<description>To get all stock Ringtone and Notifications - for Xrec, Download saved to sdcard/wolfbreak</description>
 		<files>
-		  <file filename="xLoudBravia.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBravia.zip" md5="8d20006c0834015442ebd133d96a521e" />
-		</files>
-	</app>
-	<app>	       
-		<name>App and Widgetpack Addon</name>
-		<moddate>01-11-2011</moddate>
-		<credits>Google</credits>
-		<url>http://google.com</url>
-		<version>Stock x10 2.3.3</version>
-		<description>To get all Widgets and some Apps like example TrackID - for Xrec, Download saved to sdcard/wolfbreak</description>
-		<files>
-		  <file filename="AppWidgetpack.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/AppWidgetpack.zip" md5="02d088b6ed66cdf3840794c8a5d305ff" />
+		  <file filename="RingtoneNotification.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/RingtoneNotification.zip" md5="0e6f76a224ac42867ee4e5d46e2c8214" />
 		</files>
 	</app>
 	<app>	    
