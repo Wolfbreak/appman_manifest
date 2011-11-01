@@ -179,5 +179,53 @@
 		  <file filename="SemcCrashMonitor.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/SemcCrashMonitor.apk" md5="9159507c36a752c3e500c5b4887f81e9" />
 		</files>
 	</app>
+	
+		<app>	    
+		<name>Google Apps Addon</name>
+		<moddate>01-11-2011</moddate>
+		<credits>Google</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>To get the Google Apps that are missing in ROM - to flash with Xrec, Download saved to sdcard/wolfbreak</description>
+		<files>
+		  <file filename="GoogleApps.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/GoogleApps.zip" md5="68c49079a38b4fc649e0a11fa84aeb76" />
+		</files>
+	</app>
+	
+		<app>	    
+		<name>Ringtone&Notification Addon</name>
+		<moddate>01-11-2011</moddate>
+		<credits>Google</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>To get all stock Ringtone&Notifications - to flash with Xrec, Download saved to sdcard/wolfbreak</description>
+		<files>
+		  <file filename="Ringtone&Notification.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/Ringtone&Notification.zip" md5="0e6f76a224ac42867ee4e5d46e2c8214" />
+		</files>
+	</app>
+	
+		<app>	    
+		<name>xLoud&Bravia Addon</name>
+		<moddate>01-11-2011</moddate>
+		<credits>Google</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>To get all xLoud&Bravia - to flash with Xrec, Download saved to sdcard/wolfbreak</description>
+		<files>
+		  <file filename="xLoud&Bravia.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoud&Bravia.zip" md5="8d20006c0834015442ebd133d96a521e" />
+		</files>
+	</app>
+	
+		<app>	    
+		<name>Wallpapers Addon</name>
+		<moddate>01-11-2011</moddate>
+		<credits>Google</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>To get all stock Wallpapers - to flash with Xrec, Download saved to sdcard/wolfbreak</description>
+		<files>
+		  <file filename="Wallpapers.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/Wallpapers.zip" md5="4c430dd4bb5436b81cdc8d24fe947fee" />
+		</files>
+	</app>
 </apps>
 
