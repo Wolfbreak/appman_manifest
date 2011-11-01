@@ -23,4 +23,16 @@
 		<themes>false</themes>
 		<kernels>false</kernels>
 	</rom>
+	<rom>
+		<rom_name>Wolf_Xperia</rom_name>
+		<phone>x10</phone>
+		<dev>Wolfbreak</dev>
+		<github_name>Wolfbreak</github_name>
+		<apps>true</apps>
+		<tweaks>true</tweaks>
+		<mods>true</mods>
+		<updates>true</updates>
+		<themes>true</themes>
+		<kernels>true</kernels>
+	</rom>
 </roms>
