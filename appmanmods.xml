@@ -5,9 +5,20 @@
 		<credits>Google</credits>
 		<url>http://google.com</url>
 		<version>Stock x10 2.3.3</version>
-		<description>To get all xLoud&Bravia - to flash with Xrec, Download saved to sdcard/wolfbreak</description>
+		<description>To get all xLoud&Bravia - for Xrec, Download saved to sdcard/wolfbreak</description>
 		<files>
 		  <file filename="xLoud&Bravia.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoud&Bravia.zip" md5="8d20006c0834015442ebd133d96a521e" />
+		</files>
+	</app>
+	<app>	       
+		<name>App&Widgetpack Addon</name>
+		<moddate>01-11-2011</moddate>
+		<credits>Google</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>To get all Widgets and some Apps like example TrackID - for Xrec, Download saved to sdcard/wolfbreak</description>
+		<files>
+		  <file filename="App&Widgetpack.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/App&Widgetpack.zip" md5="02d088b6ed66cdf3840794c8a5d305ff" />
 		</files>
 	</app>
 	<app>	    
