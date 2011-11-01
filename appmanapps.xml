@@ -170,9 +170,9 @@
 		<credits>Google</credits>
 		<url>http://google.com</url>
 		<version>Stock x10 2.3.3</version>
-		<description>To get the Google Apps that are missing in ROM - for Xrec, Download saved to sdcard/wolfbreak</description>
+		<description>To get the Google Apps that are missing in ROM - for Xrec, Download saved to sdcard/appman</description>
 		<files>
-		  <file filename="GoogleApps.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/GoogleApps.zip" md5="68c49079a38b4fc649e0a11fa84aeb76" />
+		  <file filename="GoogleApps.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/GoogleApps.zip" md5="68c49079a38b4fc649e0a11fa84aeb76" />
 		</files>
 	</app>
 	<app>
@@ -181,9 +181,9 @@
 		<credits>Google</credits>
 		<url>http://google.com</url>
 		<version>Stock x10 2.3.3</version>
-		<description>To get all xLoud and Bravia - for Xrec, Download saved to sdcard/wolfbreak</description>
+		<description>To get all xLoud and Bravia - for Xrec, Download saved to sdcard/appman</description>
 		<files>
-		  <file filename="xLoudBraviaV7.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7.zip" md5="5e99cc38870eecef66400a1b5809f744" />
+		  <file filename="xLoudBraviaV7.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7.zip" md5="5e99cc38870eecef66400a1b5809f744" />
 		</files>
 	</app>
 	<app>	       
@@ -192,9 +192,9 @@
 		<credits>Google</credits>
 		<url>http://google.com</url>
 		<version>Stock x10 2.3.3</version>
-		<description>To get all Widgets and some Apps like example TrackID - for Xrec, Download saved to sdcard/wolfbreak</description>
+		<description>To get all Widgets and some Apps like example TrackID - for Xrec, Download saved to sdcard/appman</description>
 		<files>
-		  <file filename="AppWidgetpack.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/AppWidgetpack.zip" md5="02d088b6ed66cdf3840794c8a5d305ff" />
+		  <file filename="AppWidgetpack.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/AppWidgetpack.zip" md5="02d088b6ed66cdf3840794c8a5d305ff" />
 		</files>
 	</app>
 </apps>
