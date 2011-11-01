@@ -170,19 +170,19 @@
 		<credits>Google</credits>
 		<url>http://google.com</url>
 		<version>Stock x10 2.3.3</version>
-		<description>To get the Google Apps that are missing in ROM - to flash with Xrec, Download saved to sdcard/wolfbreak</description>
+		<description>To get the Google Apps that are missing in ROM - for Xrec, Download saved to sdcard/wolfbreak</description>
 		<files>
 		  <file filename="GoogleApps.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/GoogleApps.zip" md5="68c49079a38b4fc649e0a11fa84aeb76" />
 		</files>
 	</app>
 	
 		<app>	    
-		<name>Ringtone&Notification Addon</name>
+		<name>Ringtone and Notifications Addon</name>
 		<moddate>01-11-2011</moddate>
 		<credits>Google</credits>
 		<url>http://google.com</url>
 		<version>Stock x10 2.3.3</version>
-		<description>To get all stock Ringtone&Notifications - to flash with Xrec, Download saved to sdcard/wolfbreak</description>
+		<description>To get all stock Ringtone and Notifications - for Xrec, Download saved to sdcard/wolfbreak</description>
 		<files>
 		  <file filename="Ringtone&Notification.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/Ringtone&Notification.zip" md5="0e6f76a224ac42867ee4e5d46e2c8214" />
 		</files>
