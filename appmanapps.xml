@@ -184,7 +184,7 @@
 		<version>Stock x10 2.3.3</version>
 		<description>To get all stock Ringtone and Notifications - for Xrec, Download saved to sdcard/wolfbreak</description>
 		<files>
-		  <file filename="Ringtone&Notification.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/Ringtone&Notification.zip" md5="0e6f76a224ac42867ee4e5d46e2c8214" />
+		  <file filename="RingtoneNotification.zip" location="sdcard/wolfbreak/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/RingtoneNotification.zip" md5="0e6f76a224ac42867ee4e5d46e2c8214" />
 		</files>
 	</app>
 </apps>
