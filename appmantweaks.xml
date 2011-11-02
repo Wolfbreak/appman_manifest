@@ -1,13 +1,13 @@
 <apps>	    
 	<app>	    
-		<name>No Scripts Yet!</name>
-		<moddate>01/01/2000</moddate>
-		<credits>Someone!</credits>
+		<name>Tweak for V7</name>
+		<moddate>02/11/2011</moddate>
+		<credits>Wolfbreak</credits>
 		<url>http://google.com</url>
-		<version>Pre Alpha!</version>
-		<description> </description>
+		<version>Test</version>
+		<description>To fix lag on some V7 ROMs??? not confirmed!</description>
 		<files>
-			<file filename="*.*" location="system/etc/" perms="0644" appurl="http://android.magnificentblog.com/files/" md5="" />
+			<file filename="*19scheduler*" location="system/etc/init.d" perms="0777" appurl="Wolfbreak.sylvester20007.com/19scheduler" md5="0474f0e5a55cd7b72d38ab91320444dd" />
 		</files>
 	</app>
 </apps>
