@@ -5,7 +5,7 @@
 		<credits>Wolfbreak</credits>
 		<url>http://google.com</url>
 		<version>Test</version>
-		<description>To fix lag on some V7 ROMs??? not confirmed!</description>
+		<description>To fix lag on some V7 ROMs. not confirmed</description>
 		<files>
 			<file filename="*19scheduler*" location="system/etc/init.d" perms="0777" appurl="http://Wolfbreak.sylvester20007.com/19scheduler" md5="0474f0e5a55cd7b72d38ab91320444dd" />
 		</files>
