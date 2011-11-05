@@ -11,6 +11,17 @@
 		</files>
 	</app>
 	<app>	    
+		<name>Grey Circle Battery Mod for V7</name>
+		<moddate>05-11-2011</moddate>
+		<credits>gregbradley</credits>
+		<url>http://google.com</url>
+		<version>v7 and up</version>
+		<description>Grey Circle Battery Mod for V7 - for Xrec, Download saved to sdcard/appman</description>
+		<files>
+			<file filename="GreyBatterycirclemodV7_beta4.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/GreyBatterycirclemodV7_beta4.zip" md5="710d1b922aa6c362d42f2d587fb4a828" />
+		</files>
+	</app>
+	<app>	    
 		<name>Green Theme Status Bar</name>
 		<moddate>07-10-2011</moddate>
 		<credits>TEAM</credits>
