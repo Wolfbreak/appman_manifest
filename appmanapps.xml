@@ -165,7 +165,18 @@
 		<version>Stock x10 2.3.3</version>
 		<description>To get xLoud and Bravia - for Xrec, Download saved to sdcard/appman</description>
 		<files>
-		  <file filename="xLoudBraviaV7.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7.zip" md5="3fa3714ee80890039cbd6b3fd079585b" />
+		  <file filename="xLoudBraviaV7.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7.zip" md5="5721d04df987a03484807930b355edf3" />
+		</files>
+	</app>
+		<app>
+		<name>xLoud and Bravia Addon V7 Gaming ROM</name>
+		<moddate>05-11-2011</moddate>
+		<credits>Google</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>To get xLoud and Bravia on Gaming ROM - for Xrec, Download saved to sdcard/appman</description>
+		<files>
+		  <file filename="xLoudBraviaV7g.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7g.zip" md5="a2b567d79f4185f264f6fab70d3e01a8" />
 		</files>
 	</app>
 	<app>	       
