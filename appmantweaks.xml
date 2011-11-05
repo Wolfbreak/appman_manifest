@@ -7,7 +7,7 @@
 		<version>Test</version>
 		<description>soon</description>
 		<files>
-			<file filename="19scheduler" location="system/etc/init.d/" perms="0777" appurl="x" md5="0474f0e5a55cd7b72d38ab91320444dd" />
+			<file filename="x" location="system/etc/init.d/" perms="0777" appurl="x" md5="x" />
 		</files>
 	</app>
 </apps>
