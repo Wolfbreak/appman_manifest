@@ -158,14 +158,14 @@
 		</files>
 	</app>
 	<app>
-		<name>xLoud and Bravia Addon V7b3up</name>
-		<moddate>01-11-2011</moddate>
+		<name>xLoud and Bravia Addon V7</name>
+		<moddate>05-11-2011</moddate>
 		<credits>Google</credits>
 		<url>http://google.com</url>
 		<version>Stock x10 2.3.3</version>
 		<description>To get xLoud and Bravia - for Xrec, Download saved to sdcard/appman</description>
 		<files>
-		  <file filename="xLoudBraviaV7b3up.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7b3up.zip" md5="8b9613c25daf924d6c2d7e7c01b04758" />
+		  <file filename="xLoudBraviaV7b3up.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7b3up.zip" md5="ad5009966f6f3fe4fcff059180f4fbb9" />
 		</files>
 	</app>
 	<app>	       
