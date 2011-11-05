@@ -7,7 +7,7 @@
 		<version>v0</version>
 		<description>Not yet</description>
 		<files>
-			<file filename=".zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/.zip" md5="5b264092c4d27e53c5dbb8dc413a09f2" />
+			<file filename=".zip" location="sdcard/appman/" perms="0644" appurl="x" md5="x" />
 		</files>
 		</app>	
 </apps>
