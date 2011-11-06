@@ -1,22 +1,22 @@
 <apps>	
 <app>   
-		<name>Ringtone and Notifications Addon</name>
+		<name>Ringtone and Notifications Addon [Xrec]</name>
 		<moddate>01-11-2011</moddate>
 		<credits>Google</credits>
 		<url>http://google.com</url>
 		<version>Stock x10 2.3.3</version>
-		<description>To get all stock Ringtone and Notifications - for Xrec, Download saved to sdcard/appman</description>
+		<description>To get all stock Ringtone and Notifications</description>
 		<files>
 		  <file filename="RingtoneNotification.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/RingtoneNotification.zip" md5="0e6f76a224ac42867ee4e5d46e2c8214" />
 		</files>
 	</app>
 	<app>	    
-		<name>Grey Circle Battery Mod for V7</name>
+		<name>Grey Circle Battery Mod for V7 [Xrec]</name>
 		<moddate>05-11-2011</moddate>
 		<credits>gregbradley</credits>
 		<url>http://google.com</url>
 		<version>v7 and up</version>
-		<description>Grey Circle Battery Mod for V7 - for Xrec, Download saved to sdcard/appman</description>
+		<description>Grey Circle Battery Mod for V7</description>
 		<files>
 			<file filename="GreyBatterycirclemodV7_beta4.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/GreyBatterycirclemodV7_beta4.zip" md5="710d1b922aa6c362d42f2d587fb4a828" />
 		</files>
