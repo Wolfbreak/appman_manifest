@@ -11,17 +11,6 @@
 		</files>
 		</app>
 <app>	    
-		<name>Update for V7b4 - T Version</name>
-		<moddate>05-11-2011</moddate>
-		<credits>Wolfbreak</credits>
-		<url>-</url>
-		<version>ulBlThjap</version>
-		<description>Fixes lag and improves Performance further- This is a update and not a full ROM!</description>
-		<files>
-			<file filename="V7t.zip" location="sdcard/appman/" perms="0644" appurl="http://wolfbreak.sylvester20007.com/V7/V7t.zip" md5="04ac5d8f5e985ce32635343f28b64e8f" />
-		</files>
-		</app>
-<app>	    
 		<name>Update for V7b4 - G Version</name>
 		<moddate>05-11-2011</moddate>
 		<credits>Wolfbreak</credits>
