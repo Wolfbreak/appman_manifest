@@ -170,22 +170,22 @@
 		</files>
 	</app>
 	<app>
-		<name>[NEW] xLoud and Bravia Addon V7 [Xrec]</name>
+		<name>xLoud and Bravia [Xrec]</name>
 		<moddate>07-11-2011</moddate>
 		<credits>SE/Wolf</credits>
 		<url>http://google.com</url>
-		<version>D 07.11.11. T 17.30 GMT +1</version>
+		<version>D 07.11.11. T 17.30 GMT +1 for all other ROM Versions</version>
 		<description>InfiniteView works fine for me with this zip</description>
 		<files>
 		  <file filename="NewxLoudBraviaV7.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/NewxLoudBraviaV7.zip" md5="cf80b4ade3165bc23afd3c9be5a63b93" />
 		</files>
 	</app>
 		<app>
-		<name>[NEW] xLoud and Bravia Addon V7 Gaming ROM [Xrec]</name>
+		<name>xLoud and Bravia [Xrec]</name>
 		<moddate>07-11-2011</moddate>
 		<credits>SE/Wolf</credits>
 		<url>http://google.com</url>
-		<version>D 07.11.11. T 17.30 GMT +1</version>
+		<version>D 07.11.11. T 17.30 GMT +1 for Gaming ROM</version>
 		<description>InfiniteView works fine for me with this zip</description>
 		<files>
 		  <file filename="NewxLoudBraviaV7g.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/NewxLoudBraviaV7g.zip" md5="a8fd2cf3fec31aaec16977c41d3df096" />
