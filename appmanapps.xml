@@ -147,6 +147,18 @@
 	</app>
 	
 		<app>	    
+		<name>Sony Text and Send Widget</name>
+		<moddate>07-11-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>1.0</version>
+		<description>Working Text and Send Widget for V7</description>
+		<files>
+		  <file filename="t2a-widget.apk" location="system/app/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/t2a-widget.apk" md5="b247944a7f069db1c04ede6f3ccc73ab" />
+		</files>
+	</app>
+	
+		<app>	    
 		<name>Google Apps Addon [Xrec]</name>
 		<moddate>01-11-2011</moddate>
 		<credits>Google</credits>
