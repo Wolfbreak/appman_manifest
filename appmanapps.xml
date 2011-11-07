@@ -174,10 +174,10 @@
 		<moddate>07-11-2011</moddate>
 		<credits>SE/Wolf</credits>
 		<url>http://google.com</url>
-		<version>Stock x10 2.3.3</version>
-		<description>InfiniteView works but Brightness/Volume FC in Settings, use something other to set until fixed</description>
+		<version>D 07.11.11. T 17.30 GMT +1</version>
+		<description>InfiniteView works fine for me with this zip</description>
 		<files>
-		  <file filename="xLoudBraviaV7.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7.zip" md5="f868232e7ae21a393334b2c1c0affee5" />
+		  <file filename="NewxLoudBraviaV7.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/NewxLoudBraviaV7.zip" md5="cf80b4ade3165bc23afd3c9be5a63b93" />
 		</files>
 	</app>
 		<app>
@@ -185,10 +185,10 @@
 		<moddate>07-11-2011</moddate>
 		<credits>SE/Wolf</credits>
 		<url>http://google.com</url>
-		<version>Stock x10 2.3.3</version>
-		<description>InfiniteView works but Brightness/Volume FC in Settings, use something other to set until fixed</description>
+		<version>D 07.11.11. T 17.30 GMT +1</version>
+		<description>InfiniteView works fine for me with this zip</description>
 		<files>
-		  <file filename="xLoudBraviaV7g.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7g.zip" md5="43e32a105cea2c562e7406895c279a17" />
+		  <file filename="NewxLoudBraviaV7g.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/NewxLoudBraviaV7g.zip" md5="a8fd2cf3fec31aaec16977c41d3df096" />
 		</files>
 	</app>
 	<app>	       
