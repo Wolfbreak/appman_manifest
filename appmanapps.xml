@@ -176,7 +176,7 @@
 		<version>Stock x10 2.3.3</version>
 		<description>To get xLoud and Bravia on Gaming ROM</description>
 		<files>
-		  <file filename="xLoudBraviaV7g.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7g.zip" md5="a68aca7873e647dfbc8c2dcd6245ea6f" />
+		  <file filename="xLoudBraviaV7g.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7g.zip" md5="43e32a105cea2c562e7406895c279a17" />
 		</files>
 	</app>
 	<app>	       
