@@ -163,7 +163,7 @@
 		<credits>SE/Wolf</credits>
 		<url>http://google.com</url>
 		<version>Stock x10 2.3.3</version>
-		<description>To get xLoud and Bravia</description>
+		<description>InfiniteView works but Brightness/Volume FC in Settings, use something other to set until fixed</description>
 		<files>
 		  <file filename="xLoudBraviaV7.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7.zip" md5="f868232e7ae21a393334b2c1c0affee5" />
 		</files>
@@ -174,7 +174,7 @@
 		<credits>SE/Wolf</credits>
 		<url>http://google.com</url>
 		<version>Stock x10 2.3.3</version>
-		<description>To get xLoud and Bravia on Gaming ROM</description>
+		<description>InfiniteView works but Brightness/Volume FC in Settings, use something other to set until fixed</description>
 		<files>
 		  <file filename="xLoudBraviaV7g.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7g.zip" md5="43e32a105cea2c562e7406895c279a17" />
 		</files>
