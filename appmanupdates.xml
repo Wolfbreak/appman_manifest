@@ -7,7 +7,7 @@
 		<version>ulBlDoom</version>
 		<description>Fixes lag and improves Performance further- This is a update and not a full ROM!</description>
 		<files>
-			<file filename="V7d.zip" location="sdcard/appman/" perms="0644" appurl="http://wolfbreak.sylvester20007.com/V7/V7d.zip" md5="af25575e9002cfd57f383ed09b2dc877" />
+			<file filename="V7d" location="sdcard/appman/" perms="0644" appurl="http://wolfbreak.sylvester20007.com/V7/V7d" md5="af25575e9002cfd57f383ed09b2dc877" />
 		</files>
 		</app>
 <app>	    
@@ -18,7 +18,7 @@
 		<version>Gaming</version>
 		<description>Fixes lag and improves Performance further- This is a update and not a full ROM!</description>
 		<files>
-			<file filename="V7g.zip" location="sdcard/appman/" perms="0644" appurl="http://wolfbreak.sylvester20007.com/V7/V7g.zip" md5="68ebbc85218dfc741f6b46bfb40a1287" />
+			<file filename="V7g" location="sdcard/appman/" perms="0644" appurl="http://wolfbreak.sylvester20007.com/V7/V7g" md5="68ebbc85218dfc741f6b46bfb40a1287" />
 		</files>
 		</app>
 <app>	    
@@ -29,7 +29,7 @@
 		<version>freeKernel and failsafe</version>
 		<description>Fixes lag and improves Performance further- This is a update and not a full ROM!</description>
 		<files>
-			<file filename="V7s_and_f.zip" location="sdcard/appman/" perms="0644" appurl="http://wolfbreak.sylvester20007.com/V7/V7s_and_f.zip" md5="623a5ef0ccc0474e2b4fde8d2e202bca" />
+			<file filename="V7s_and_f" location="sdcard/appman/" perms="0644" appurl="http://wolfbreak.sylvester20007.com/V7/V7s_and_f" md5="623a5ef0ccc0474e2b4fde8d2e202bca" />
 		</files>
 		</app>	
 </apps>
