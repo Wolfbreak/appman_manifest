@@ -7,7 +7,7 @@
 		<version>Stock x10 2.3.3</version>
 		<description>To get all stock Ringtone and Notifications</description>
 		<files>
-		  <file filename="RingtoneNotification.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/RingtoneNotification.zip" md5="0e6f76a224ac42867ee4e5d46e2c8214" />
+		  <file filename="RingtoneNotification" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/RingtoneNotification" md5="0e6f76a224ac42867ee4e5d46e2c8214" />
 		</files>
 	</app>
 	<app>	    
@@ -18,7 +18,7 @@
 		<version>v7 and up</version>
 		<description>Grey Circle Battery Mod for V7</description>
 		<files>
-			<file filename="GreyBatterycirclemodV7_beta4.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/GreyBatterycirclemodV7_beta4.zip" md5="710d1b922aa6c362d42f2d587fb4a828" />
+			<file filename="GreyBatterycirclemodV7_beta4" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/GreyBatterycirclemodV7_beta4" md5="710d1b922aa6c362d42f2d587fb4a828" />
 		</files>
 	</app>
 	<app>	    
