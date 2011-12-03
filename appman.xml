@@ -5,10 +5,10 @@
 		<dev>Wolfbreak</dev>
 		<github_name>Wolfbreak</github_name>
 		<apps>true</apps>
-		<tweaks>false</tweaks>
+		<tweaks>true</tweaks>
 		<mods>true</mods>
-		<updates>false</updates>
+		<updates>true</updates>
 		<themes>true</themes>
-		<kernels>false</kernels>
+		<kernels>true</kernels>
 	</rom>
 </roms>
