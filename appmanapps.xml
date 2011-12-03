@@ -171,24 +171,24 @@
 	</app>
 	<app>
 		<name>xLoud and Bravia [Xrec]</name>
-		<moddate>07-11-2011</moddate>
+		<moddate>03-12-2011</moddate>
 		<credits>SE/Wolf</credits>
 		<url>http://google.com</url>
-		<version>D 07.11.11. T 17.30 GMT +1 for all other ROM Versions</version>
-		<description>InfiniteView works fine for me with this zip</description>
+		<version>7b6</version>
+		<description>For all other Versions of my ROM</description>
 		<files>
-		  <file filename="NewxLoudBraviaV7" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/NewxLoudBraviaV7" md5="cf80b4ade3165bc23afd3c9be5a63b93" />
+		  <file filename="xLoudBraviaV7b6" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7b6" md5="4e29c4a07ddf1f2e3333dd57adb9f48c" />
 		</files>
 	</app>
 		<app>
 		<name>xLoud and Bravia [Xrec]</name>
-		<moddate>07-11-2011</moddate>
+		<moddate>03-12-2011</moddate>
 		<credits>SE/Wolf</credits>
 		<url>http://google.com</url>
-		<version>D 07.11.11. T 17.30 GMT +1 for Gaming ROM</version>
-		<description>InfiniteView works fine for me with this zip</description>
+		<version>7b6</version>
+		<description>For Gaming ROM only</description>
 		<files>
-		  <file filename="NewxLoudBraviaV7g" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/NewxLoudBraviaV7g" md5="a8fd2cf3fec31aaec16977c41d3df096" />
+		  <file filename="xLoudBraviaV7g6" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7g6" md5="1b5c82c8e760ea1913cc3cd3633a89a2" />
 		</files>
 	</app>
 	<app>	       
