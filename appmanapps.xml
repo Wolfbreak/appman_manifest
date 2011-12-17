@@ -166,7 +166,7 @@
 		<version>Stock x10 2.3.3</version>
 		<description>To get the Google Apps that are missing in ROM - for Xrec, Download saved to sdcard/appman</description>
 		<files>
-		  <file filename="GoogleApps" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/GoogleApps" md5="68c49079a38b4fc649e0a11fa84aeb76" />
+		  <file filename="GoogleApps.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/GoogleApps" md5="68c49079a38b4fc649e0a11fa84aeb76" />
 		</files>
 	</app>
 	<app>
@@ -177,7 +177,7 @@
 		<version>7b6</version>
 		<description>For all other Versions of my ROM</description>
 		<files>
-		  <file filename="xLoudBraviaV7b6" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7b6" md5="4e29c4a07ddf1f2e3333dd57adb9f48c" />
+		  <file filename="xLoudBraviaV7b6.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7b6" md5="4e29c4a07ddf1f2e3333dd57adb9f48c" />
 		</files>
 	</app>
 		<app>
@@ -188,7 +188,7 @@
 		<version>7b6</version>
 		<description>For Gaming ROM only</description>
 		<files>
-		  <file filename="xLoudBraviaV7g6" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7g6" md5="1b5c82c8e760ea1913cc3cd3633a89a2" />
+		  <file filename="xLoudBraviaV7g6.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/xLoudBraviaV7g6" md5="1b5c82c8e760ea1913cc3cd3633a89a2" />
 		</files>
 	</app>
 	<app>	       
@@ -199,7 +199,7 @@
 		<version>Stock x10 2.3.3</version>
 		<description>To get all Widgets and some Apps like example TrackID</description>
 		<files>
-		  <file filename="AppWidgetpack" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/AppWidgetpack" md5="02d088b6ed66cdf3840794c8a5d305ff" />
+		  <file filename="AppWidgetpack.zip" location="sdcard/appman/" perms="0644" appurl="http://Wolfbreak.sylvester20007.com/AppWidgetpack" md5="02d088b6ed66cdf3840794c8a5d305ff" />
 		</files>
 	</app>
 </apps>
