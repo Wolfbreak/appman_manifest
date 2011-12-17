@@ -21,16 +21,5 @@
 			<file filename="x" location="sdcard/appman/" perms="0644" appurl="x" md5="68ebbc85218dfc741f6b46bfb40a1287" />
 		</files>
 		</app>
-<app>	    
-		<name>x</name>
-		<moddate>05-11-2011</moddate>
-		<credits>Wolfbreak</credits>
-		<url>-</url>
-		<version>x</version>
-		<description>x</description>
-		<files>
-			<file filename="x" location="sdcard/appman/" perms="0644" appurl="x" md5="623a5ef0ccc0474e2b4fde8d2e202bca" />
-		</files>
-		</app>	
 </apps>
 
